@@ -6,3 +6,5 @@ youtube-transcript-api
 streamlit
 python-dotenv
 langchain-google-genai
+json-repair
+langchain_groq
