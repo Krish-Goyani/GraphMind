@@ -1,0 +1,8 @@
+langchain
+langchain-community
+neo4j
+langchain-experimental
+youtube-transcript-api
+streamlit
+python-dotenv
+langchain-google-genai
